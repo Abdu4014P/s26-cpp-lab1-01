@@ -1,2 +1,3 @@
-# s26-cpp-lab1-01
-OOP Lab 1 - C++ Setup
+Name : Abdullah Imran
+Course : OOP Spring 2026
+Lab 1 : Development Environment Setup
